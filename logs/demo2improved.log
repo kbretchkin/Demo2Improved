@@ -75,3 +75,24 @@
 2025-01-31 11:39:51:INFO:************* Dashboard text found ****************
 2025-01-31 11:39:52:INFO:************* test_invalid_admin_login started ****************
 2025-01-31 11:39:58:INFO:************* test_invalid_admin_login error messages matched ****************
+2025-01-31 13:38:17:INFO:************* Test01AdminLogin ****************
+2025-01-31 13:38:17:INFO:************* verification of admin login page title ****************
+2025-01-31 13:38:19:INFO:************* test_title_verification title matched ****************
+2025-01-31 13:38:21:INFO:************* test_valid_admin_login started ****************
+2025-01-31 13:38:25:INFO:************* Dashboard text found ****************
+2025-01-31 13:38:27:INFO:************* test_invalid_admin_login started ****************
+2025-01-31 13:38:32:INFO:************* test_invalid_admin_login error messages matched ****************
+2025-01-31 13:38:58:INFO:************* Test01AdminLogin ****************
+2025-01-31 13:38:58:INFO:************* verification of admin login page title ****************
+2025-01-31 13:39:01:INFO:************* test_title_verification title matched ****************
+2025-01-31 13:39:02:INFO:************* test_valid_admin_login started ****************
+2025-01-31 13:39:10:INFO:************* Dashboard text found ****************
+2025-01-31 13:39:12:INFO:************* test_invalid_admin_login started ****************
+2025-01-31 13:39:22:INFO:************* test_invalid_admin_login error messages matched ****************
+2025-01-31 13:45:14:INFO:************* Test01AdminLogin ****************
+2025-01-31 13:45:14:INFO:************* verification of admin login page title ****************
+2025-01-31 13:45:19:INFO:************* test_title_verification title matched ****************
+2025-01-31 13:45:20:INFO:************* test_valid_admin_login started ****************
+2025-01-31 13:45:27:INFO:************* Dashboard text found ****************
+2025-01-31 13:45:29:INFO:************* test_invalid_admin_login started ****************
+2025-01-31 13:45:36:INFO:************* test_invalid_admin_login error messages matched ****************
