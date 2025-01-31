@@ -1,4 +1,4 @@
 @echo off
 call venv\scripts\activate
-pytest -v -s --html .reports\test_report.html --browser chrome
+pytest -s -v --html .reports\test_report.html --browser chrome
 pause
